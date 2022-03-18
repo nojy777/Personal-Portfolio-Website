@@ -1,10 +1,13 @@
 # Personal-Portfolio-Website
 My Personal Portfolio Website
+---------------------------
 
 Design Phase
+-------------
 
 
 Empathize
+----------
 
 What type of portfolio website design do I want?
 How many pages or sections will my website have?
@@ -18,6 +21,7 @@ Should sections link to pages?
 
 
 Define
+--------
 
 Create a git repository.
 Have an idea of the folder structure.
@@ -36,6 +40,7 @@ Add a good header to the portfolio.
 
 
 Ideate
+---------
 
 Create a git repository.
 Have an idea of the folder structure.
@@ -55,30 +60,42 @@ Have jpeg images you use for the website.
 
 
 Prototype of the website
+--------------------------
 
 
-Home
-About
-Services
-Portfolio
-Contact me
+|Home
+-----
+|About
+-------
+|Services
+----------
+|Portfolio
+-----------
+|Contact me
+-------------
 
 
 
 
 
 
-Home- brief description of web development and web developer,
-About me- My name, education, certification, and work experiences.
-Skills-  Web development, web design, web deployment, software testing, quality assurance.
-Portfolio-  Links to Github.
-Contact-  Guests can fill in their names, emails, and reason for contact.
+|Home- brief description of web development and web developer.
+---------------------------------------------------------------
+|About me- My name, education, certification, and work experiences.
+--------------------------------------------------------------------
+|Skills-  Web development, web design, web deployment, software testing, quality assurance.
+-------------------------------------------------------------------------------------------
+|Portfolio-  Links to Github.
+-----------------------------
+|Contact-  Guests can fill in their names, emails, and reason for contact.
+----------------------------------------------------------------------------
 
 
 
 
 
 Test
+-----
 
 A senior colleague was able to look through my design phases from emphasize to the prototype stage. 
 
