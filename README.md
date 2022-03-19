@@ -63,15 +63,15 @@ Prototype of the website
 --------------------------
 
 
-|Home
+|Home|
 -----
-|About
+|About|
 -------
-|Services
+|Services|
 ----------
-|Portfolio
+|Portfolio|
 -----------
-|Contact me
+|Contact me|
 -------------
 
 
@@ -79,16 +79,16 @@ Prototype of the website
 
 
 
-|Home- brief description of web development and web developer.
+|Home- brief description of web development and web developer.|
 ---------------------------------------------------------------
-|About me- My name, education, certification, and work experiences.
+|About me- My name, education, certification, and work experiences.|
 --------------------------------------------------------------------
-|Skills-  Web development, web design, web deployment, software testing, quality assurance.
+|Skills-  Web development, web design, web deployment, software testing, quality assurance.|
 -------------------------------------------------------------------------------------------
-|Portfolio-  Links to Github.
+|Portfolio-  Links to Github.|
 -----------------------------
-|Contact-  Guests can fill in their names, emails, and reason for contact.
-----------------------------------------------------------------------------
+|Contact-  Guests can fill in their names, emails, and reason for contact.|
+--------------------------------------------------------------------------
 
 
 
